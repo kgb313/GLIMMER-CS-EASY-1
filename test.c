@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-int main(){
-
-    printf("心有微光，不惧黑暗\n");
-    getchar(); // Wait for user input before closing the console window
-    return 0;
-}
